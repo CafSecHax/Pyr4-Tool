@@ -4,9 +4,13 @@ Hellow User. In This Tool You Can Install 100+ Advance And Professional Hacking 
 
 # Installation
 $ apt update 
+
 $ apt upgrade
+
 $ git clone https://github.com/CafSecHax/Pyr4-Tool.git
+
 $ cd Pyr4-Tool
+
 $ python Pyr4-Tool.py
 
 
